@@ -1,0 +1,40 @@
+h1 {font-size: 3em;
+font-family: serif;
+color: black;
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.trav3
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+footer  { background-color: antiquewhite;
+        font-size: .60em; 
+        font-weight: italic; 
+        text-align: center; 
+    font-style: italic ;
+    border: 2px solid ;
+    padding:5em; }
+header {
+    background-color: antiquewhite;
+    text-decoration: none;
+    height: 150px; 
+    
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 105px;
+    height: 128px;
+}
